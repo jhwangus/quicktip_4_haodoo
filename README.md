@@ -28,19 +28,19 @@
 
 將掃描 PDF 轉化為可編輯的文字稿。
 
-> 👉 [詳細操作指南：用 Google Doc 做批次 OCR](https://www.google.com/search?q=./google_doc_ocr.md)
+> 👉 [詳細操作指南：用 Google Doc 做批次 OCR](google_doc_ocr.md)
 
 ## 2. 用 Google Gemini 進行校正編輯
 
 利用專屬 Gem 指令，一鍵完成繁簡轉換與排錯。
 
-> 👉 [詳細操作指南：使用 Google Gemini 進行自動校正](https://www.google.com/search?q=./gemini_auto_correct.md)
+> 👉 [詳細操作指南：使用 Google Gemini 進行自動校正](gemini_auto_correct.md)
 
 ## 3. 比較原始檔與校正檔 (可省略)
 
 如果您想確認 AI 修改了哪些細節，這是一個推薦的保險步驟。
 
-> 👉 [詳細操作指南：如何使用 WinMerge 比對文字](https://www.google.com/search?q=./diff_text_files.md)
+> 👉 [詳細操作指南：如何使用 WinMerge 比對文字](diff_text_files.md)
 
 ---
 
